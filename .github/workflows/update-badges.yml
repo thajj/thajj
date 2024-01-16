@@ -1,7 +1,10 @@
 name: Update badges
 
 on:
-  schedule:
+ # Triggers the workflow on push or pull request events but only for the "main" branch
+    push:
+      branches: [ "main" ]
+    schedule:
     # Runs at 0am UTC every day
     - cron: "0 0 * * *"
 jobs:
