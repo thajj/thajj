@@ -15,4 +15,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: <toufic-hajj>
+          CREDLY_USER: toufic-hajj
