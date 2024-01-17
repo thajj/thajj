@@ -1,5 +1,4 @@
 <p align="center">
- <img style="border-radius: 50%; border: 2px solid #000" src="https://avatars.githubusercontent.com/u/3870102?v=4" align="center" alt="Toufic Hajj" />
  <h2 align="center"><img src="./assets/hi.svg"></h2>
 </p>
 
