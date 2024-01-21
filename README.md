@@ -1,10 +1,5 @@
-<p align="center">
- <h2 align="center"><img src="./assets/hi.svg"></h2>
-</p>
-
-<h3>Let me give you a glimpse into my professional world as a software engineer with over 15 years of experience, where I'm currently engaged in the following activities</h3>
-<hr />
-
+# <img src="./assets/hi.svg">
+## Let me give you a glimpse into my professional world as a software engineer with over 15 years of experience, where I'm currently engaged in the following activities
 - 🔭 I’m currently working on various software projects, including a mobile app for a healthcare startup and a web application for a financial services company.
 
 - 🌱 I’m currently learning about machine learning and artificial intelligence to incorporate these technologies into our upcoming projects.
@@ -15,10 +10,7 @@
 - 😄 Pronouns: It 👀 <!-- - ⚡ Fun fact: Functions are code blocks, but comments are not! -->
 - ⚡ Fake Fact: I claim to enjoy participating in hackathons in my spare time and winning several awards for my coding skills. Quite the fictional story, isn't it?
 
-
-<hr />
-<h3>Certifications</h3>
-<hr />
+## Certifications
 
 
 <!--START_SECTION:badges-->
