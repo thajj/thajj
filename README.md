@@ -1,5 +1,12 @@
-# <img src="./assets/hi.svg">
-## Let me give you a glimpse into my professional world as a software engineer with over 15 years of experience, where I'm currently engaged in the following activities
+<h2>
+Hey folks! 👋 I am  
+<span style="float:right;" >
+    <img src="./assets/hi.svg" />
+</span>
+</h2>
+
+#### Let me give you a glimpse into my professional world as a software engineer with over 15 years of experience, where I'm currently engaged in the following activities
+
 - 🔭 I’m currently working on various software projects, including a mobile app for a healthcare startup and a web application for a financial services company.
 
 - 🌱 I’m currently learning about machine learning and artificial intelligence to incorporate these technologies into our upcoming projects.
@@ -10,7 +17,7 @@
 - 😄 Pronouns: It 👀 <!-- - ⚡ Fun fact: Functions are code blocks, but comments are not! -->
 - ⚡ Fake Fact: I claim to enjoy participating in hackathons in my spare time and winning several awards for my coding skills. Quite the fictional story, isn't it?
 
-## Certifications
+<h2> Certifications</h2>
 
 
 <!--START_SECTION:badges-->
@@ -22,3 +29,8 @@
 [![Web Development with HTML, CSS, JavaScript Essentials](https://images.credly.com/size/110x110/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png)](http://www.credly.com/badges/cfd37c1d-d720-4b63-af57-593e8fe83bd8 "Web Development with HTML, CSS, JavaScript Essentials")
 [![Introduction to Cloud Computing](https://images.credly.com/size/110x110/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png)](http://www.credly.com/badges/19908d5f-4c4e-4dee-b686-457771314e76 "Introduction to Cloud Computing")
 <!--END_SECTION:badges-->
+
+
+<span>
+      <img src="https://komarev.com/ghpvc/?username=thajj&style=for-the-badge"/>
+</span>
