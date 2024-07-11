@@ -22,11 +22,11 @@ Hey folks! 👋 I am
 
 <!--START_SECTION:badges-->
 [![Cloud Native, DevOps, Agile & NoSQL Essentials](https://images.credly.com/size/110x110/images/0180c9c4-1723-4e5d-b38e-c439cd445130/image.png)](http://www.credly.com/badges/bd44f204-1490-4d21-a761-70c4106f7c3f "Cloud Native, DevOps, Agile & NoSQL Essentials")
-[![Python for Data Science and AI](https://images.credly.com/size/110x110/images/b6aa0bc8-1f0a-4939-beef-d073fa3fff9c/image.png)](http://www.credly.com/badges/23aa365b-2608-4030-b090-d70d6f015183 "Python for Data Science and AI")
+[![Python for Data Science and AI](https://images.credly.com/size/110x110/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png)](http://www.credly.com/badges/23aa365b-2608-4030-b090-d70d6f015183 "Python for Data Science and AI")
 [![Node and Express Essentials](https://images.credly.com/size/110x110/images/43eabfbc-06d4-4633-9be0-0f56cfbdb607/image.png)](http://www.credly.com/badges/a8a9a6bb-a6d9-4856-b024-b4515898b40c "Node and Express Essentials")
-[![Git and GitHub Essentials](https://images.credly.com/size/110x110/images/591ca2c8-3f26-44c8-93d7-d0c1c134f873/image.png)](http://www.credly.com/badges/ec539dc8-35ce-43e7-8d38-18c85d180ab6 "Git and GitHub Essentials")
+[![Git and GitHub Essentials](https://images.credly.com/size/110x110/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png)](http://www.credly.com/badges/ec539dc8-35ce-43e7-8d38-18c85d180ab6 "Git and GitHub Essentials")
 [![Front-end Development with React](https://images.credly.com/size/110x110/images/6f458365-ea60-44e7-acdd-88d9dd114cf2/image.png)](http://www.credly.com/badges/355b413c-45d0-4e82-972a-adbf6474517e "Front-end Development with React")
-[![Web Development with HTML, CSS, JavaScript Essentials](https://images.credly.com/size/110x110/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png)](http://www.credly.com/badges/cfd37c1d-d720-4b63-af57-593e8fe83bd8 "Web Development with HTML, CSS, JavaScript Essentials")
+[![Web Development with HTML, CSS, JavaScript Essentials](https://images.credly.com/size/110x110/images/2d1797d5-1de7-4778-8975-9e5c6ec73a1a/image.png)](http://www.credly.com/badges/cfd37c1d-d720-4b63-af57-593e8fe83bd8 "Web Development with HTML, CSS, JavaScript Essentials")
 [![Introduction to Cloud Computing](https://images.credly.com/size/110x110/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png)](http://www.credly.com/badges/19908d5f-4c4e-4dee-b686-457771314e76 "Introduction to Cloud Computing")
 <!--END_SECTION:badges-->
 
