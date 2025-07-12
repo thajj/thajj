@@ -63,9 +63,9 @@ Hey folks! 👋 I am
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 <div class="stats" align="center">
 
-![Toufic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thajj&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Toufic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thajj&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=thajj&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=thajj&count_private=true&theme=algolia&border_radius=20&include_all_commits=true)
 <!--
 ![Toufic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thajj&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
@@ -73,7 +73,7 @@ Hey folks! 👋 I am
  -->
 
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thajj&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thajj&layout=compact&show_icons=true&theme=algolia&border_radius=20&include_all_commits=true)
 
 
 <span>
