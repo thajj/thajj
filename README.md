@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/hi.svg" alt="Toufic Hajj" />
   
-  <h3>Senior Full-Stack & Cloud Platform Engineer @ Wisk.aero</h3>
+  <h3>Senior Full-Stack & Cloud Platform Engineer</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toufic-hajj/)
   ![Profile Views](https://komarev.com/ghpvc/?username=thajj&style=for-the-badge&color=blue)
