@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/hi.svg" alt="Toufic Hajj" />
   
-  <h3>Software Engineer | 15+ Years of Experience</h3>
+  <h3>Senior Full-Stack & Cloud Platform Engineer @ Wisk.aero</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toufic-hajj/)
   ![Profile Views](https://komarev.com/ghpvc/?username=thajj&style=for-the-badge&color=blue)
@@ -9,7 +9,7 @@
   <br />
   
   <!-- Animated typing effect -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Native+Enthusiast;Machine+Learning+Explorer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Senior+Full-Stack+Engineer;Cloud+Platform+Engineer;15%2B+Years+of+Experience" alt="Typing SVG" /></a>
 </div>
 
 <br />
@@ -18,8 +18,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 Currently working on **mobile app for healthcare startup** & **web application for financial services**
-- 🌱 Learning **Machine Learning & AI** to incorporate into upcoming projects
+- 🔭 Currently working on **cloud-native applications at Wisk.aero**
+- 🌱 Learning **advanced cloud architecture and GKE orchestration**
 - 👯 Looking to collaborate on **innovative software projects** that push technological boundaries
 - 💬 Ask me about **software architecture, design patterns, or latest frameworks**
 - 😄 Pronouns: **It** 👀
