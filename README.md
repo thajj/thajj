@@ -19,6 +19,7 @@
 - [**Thirty North**](https://thirtynorthgst.ca/) — privacy-first, bilingual GST/HST tools for Canadian freelancers and independent professionals.
   - [Free tools in English](https://thirtynorthgst.ca/tools/)
   - [Outils gratuits en français](https://thirtynorthgst.ca/fr/outils/)
+  - [No-GST/HST invoice template](https://thirtynorthgst.ca/tools/no-gst-hst-invoice-template-canada) · [Modèle sans TPS/TVQ](https://thirtynorthgst.ca/fr/outils/modele-facture-sans-tps-tvq)
   - [Product case study](https://toufichajj.dev/work/thirty-north)
 
 ## 👨‍💻 About Me
