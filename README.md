@@ -20,6 +20,7 @@
   - [Free tools in English](https://thirtynorthgst.ca/tools/)
   - [Outils gratuits en français](https://thirtynorthgst.ca/fr/outils/)
   - [No-GST/HST invoice template](https://thirtynorthgst.ca/tools/no-gst-hst-invoice-template-canada) · [Modèle sans TPS/TVQ](https://thirtynorthgst.ca/fr/outils/modele-facture-sans-tps-tvq)
+  - [Copy-ready bilingual invoice templates on GitHub](https://github.com/thajj/canada-no-gst-hst-invoice-template)
   - [Product case study](https://toufichajj.dev/work/thirty-north)
 
 ## 👨‍💻 About Me
