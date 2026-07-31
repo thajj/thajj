@@ -14,6 +14,13 @@
 
 <br />
 
+## 🌐 Current Product
+
+- [**Thirty North**](https://thirtynorthgst.ca/) — privacy-first, bilingual GST/HST tools for Canadian freelancers and independent professionals.
+  - [Free tools in English](https://thirtynorthgst.ca/tools/)
+  - [Outils gratuits en français](https://thirtynorthgst.ca/fr/outils/)
+  - [Product case study](https://toufichajj.dev/work/thirty-north)
+
 ## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
