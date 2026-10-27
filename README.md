@@ -4,6 +4,8 @@ Senior full-stack and cloud platform engineer interested in practical tools, clo
 
 ## Explore my work
 
+- [Tiphys](https://github.com/thajj/tiphys): an open-source visual editor for Argo Workflows, currently a proof of concept. Drag, configure, and connect components, or paste existing YAML to get started.
+  - [Watch the walkthrough](https://youtu.be/Td7Um7y7chI) · [Read the article](https://medium.com/@hajj.toufic/tiphys-a-visual-workspace-for-argo-workflows-e74999c30405)
 - [Bilingual invoice templates](https://github.com/thajj/canada-no-gst-hst-invoice-template) — reusable templates for confirmed unregistered Canadian small suppliers.
 - [Media downloader extension](https://github.com/thajj/media-downloader-extension) — a Chrome extension for downloading images and videos from web pages.
 - [Portfolio](https://toufichajj.dev) — projects and product case studies.
